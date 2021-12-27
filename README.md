@@ -4,6 +4,8 @@ This repository consists of flask projects.
 
 **Flask** is a web framework, it's a Python module that lets you develop web applications easily.
 
+![alt text](https://github.com/vidush5/Flask-Projects/blob/main/flask.png)
+
 Official documentation - https://flask.palletsprojects.com/en/1.1.x/
 
 ## Initial Setup
@@ -20,5 +22,5 @@ python3 -m venv <name of the env>
 
 03. Install Flask
 ```bash
-. pip install Flask 
+ pip install Flask 
 ```
