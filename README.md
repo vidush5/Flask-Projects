@@ -24,3 +24,10 @@ python3 -m venv <name of the env>
 ```bash
  pip install Flask 
 ```
+
+## Projects
+
+| Projects | URL |
+|---------|---------------|
+| Flask To-Do App | [Link](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_01)|
+| Word Suggestion App | [Link](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_02)|
