@@ -30,4 +30,4 @@ python3 -m venv <name of the env>
 | Projects | URL |
 |---------|---------------|
 | Flask To-Do App | [Link](https://github.com/vidush5/Flask-Projects/tree/main/Flask_Todo)|
-| Word Suggestion App | [Link](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_02)|
+| Words Suggestion App | [Link](https://github.com/vidush5/Flask-Projects/tree/main/Words_Suggestions_App)|
